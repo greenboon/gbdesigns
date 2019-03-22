@@ -5,11 +5,11 @@
     "js/reveal.js",
     "css/reveal.css"
   ],
-  "homepage": "http://revealjs.com",
+  "homepage": "https://greenboon.github.io/gbdesigns",
   "license": "MIT",
   "description": "The HTML Presentation Framework",
   "authors": [
-    "Hakim El Hattab <hakim.elhattab@gmail.com>"
+    "chinnan <design.chinnan@gmail.com>"
   ],
   "dependencies": {
     "headjs": "~1.0.3"
